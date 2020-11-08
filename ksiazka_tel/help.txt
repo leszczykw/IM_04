@@ -1,0 +1,5 @@
+Witaj w programie ksiazka telefoniczna oto przewodnik uzytkownika:
+Autorem pragrmu jest Wiktor Leszczyk
+
+Program sluzy do zapisywania kontaktow, po wlaczeniu nalezy wybrac poprzez wpisanie odpowiedniej cyfry
+jaka czynnosc chcemy wykonac.
